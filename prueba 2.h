@@ -7,7 +7,7 @@ int f;
 main()
 {
 	do{
-printf("ingrese un numero 2");
+printf("ingrese un numeroajajaj 2");
 scanf("%d",f);
 	}while (f=!2)
 }
